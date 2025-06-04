@@ -128,17 +128,3 @@ The PDF report includes:
 
 ````
 
----
-
-### ✅ Now You Can:
-
-1. Paste this into `README.md`
-2. Stage and commit:
-
-```bash
-git add README.md
-git commit -m "Add README with project details"
-git push origin main
-````
-
-Let me know if you'd like to add a screenshot, badge, or link to the sample PDF.
