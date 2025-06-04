@@ -1,8 +1,7 @@
 ````markdown
-# 🧠 Student Performance Report Generator (Internship Project)
+# 🧠 Student Performance Report Generator
 
-This project generates personalized student performance reports using AI and visualization tools. It was built as part of an internship assignment and is now shared as an open-source educational tool.
-
+This project generates personalized student performance reports using AI and visualization tools.
 ---
 
 ## ✨ Features
